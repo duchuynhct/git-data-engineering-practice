@@ -13,4 +13,4 @@ if __name__ == "__main__":
 
     users = extract_users(url)
 
-    print(f"Extracted {len(users)} users")
+    print(f"Successfully extracted {len(users)} users")
